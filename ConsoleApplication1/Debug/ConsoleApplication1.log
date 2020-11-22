@@ -1,0 +1,6 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\HP\Desktop\ConsoleApplication1\ConsoleApplication1.cpp(22,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\Desktop\ConsoleApplication1\ConsoleApplication1.cpp(41,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\Desktop\ConsoleApplication1\ConsoleApplication1.cpp(58,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\Desktop\ConsoleApplication1\ConsoleApplication1.cpp(75,23): warning C4018: '<': signed/unsigned mismatch
+  ConsoleApplication1.vcxproj -> C:\Users\HP\Desktop\ConsoleApplication1\Debug\ConsoleApplication1.exe

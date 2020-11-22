@@ -1,0 +1,12 @@
+﻿  2 task.cpp
+C:\Users\HP\Desktop\2 task\2 task.cpp(22,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\Desktop\2 task\2 task.cpp(26,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\Desktop\2 task\2 task.cpp(29,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\Desktop\2 task\2 task.cpp(44,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\Desktop\2 task\2 task.cpp(46,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\Desktop\2 task\2 task.cpp(50,38): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\Desktop\2 task\2 task.cpp(64,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\Desktop\2 task\2 task.cpp(66,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\Desktop\2 task\2 task.cpp(69,38): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\Desktop\2 task\2 task.cpp(71,42): warning C4018: '<': signed/unsigned mismatch
+  2 task.vcxproj -> C:\Users\HP\Desktop\2 task\Debug\2 task.exe
